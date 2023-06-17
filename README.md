@@ -1,11 +1,11 @@
-About r-islr
-============
+About r-islr-feedstock
+======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-islr-feedstock/blob/main/LICENSE.txt)
 
 Home: https://www.statlearning.com
 
 Package license: GPL-2.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-islr-feedstock/blob/main/LICENSE.txt)
 
 Summary: We provide the collection of data-sets used in the book 'An Introduction to Statistical Learning with Applications in R'.
 
